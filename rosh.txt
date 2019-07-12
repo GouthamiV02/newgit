@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 nothing much
 
+=======
+hiiii yo!
+>>>>>>> 9887dbf7be04fc4a51980a37541b029d99adbfee
